@@ -1,5 +1,5 @@
 # HTML-Final-Clouded-Leopard
-Project Name: MyFirstApp 
+Project Name: Clouded Leopard 
 Class: Advanced Java Topics
 Data: 5/18/23
 Date Submitted: 9/19/22
